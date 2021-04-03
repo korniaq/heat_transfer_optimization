@@ -1,1 +1,1 @@
-# heat_transfer_optimization
+My project made for numerical methods course (4th semester). Its objective was to simulate heat transfer in a T-shaped beam with izolation on its sides and heating on upper and lower part (see heat_transfer.mkv file). Then, an appropriate control temperature should be calculated using adjoint method so as to achieve homogenous distribution of temperature inside the beam. In order to solve partial differencial equation, finite difference method and a simple conjugate gradient method were used.
