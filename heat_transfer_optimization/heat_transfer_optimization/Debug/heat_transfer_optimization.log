@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Visual Studio\Projects\heat_transfer_optimization\heat_transfer_optimization\main.cpp(204,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Visual Studio\Projects\heat_transfer_optimization\heat_transfer_optimization\main.cpp(241,32): warning C4244: 'argument': conversion from 'double' to 'size_t', possible loss of data
+  heat_transfer_optimization.vcxproj -> D:\Visual Studio\Projects\heat_transfer_optimization\Debug\heat_transfer_optimization.exe
